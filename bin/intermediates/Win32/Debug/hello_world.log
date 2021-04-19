@@ -1,5 +1,0 @@
-﻿  log.cpp
-  main.cpp
-D:\dev\cpp_tutorial\hello_world\source\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Generating Code...
-  hello_world.vcxproj -> D:\dev\cpp_tutorial\bin\Win32\Debug\hello_world.exe
