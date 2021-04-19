@@ -1,0 +1,11 @@
+*.obj
+*.i
+*.vcxproj
+*.filters
+*.user
+*.ilk
+*.pdb
+*.recipe
+*.log
+*.lastbuildstate
+*.tlog
