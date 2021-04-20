@@ -1,11 +1,22 @@
-*.obj
-*.i
-*.vcxproj
-*.filters
-*.user
-*.ilk
-*.pdb
-*.recipe
-*.log
-*.lastbuildstate
-*.tlog
+# Ignore everything
+*
+
+# Except the .gitignore file
+!.gitignore
+
+# Cpp files, Header files and executable files
+!*/*.cpp
+!*/*.h
+!*/*.exe
+
+# Solution files
+!*.sln
+
+# VS project files
+!*/*.user
+!*/*.filters
+!*/*.vcxproj
+
+# GitHub files
+!README.md
+!LICENSE
