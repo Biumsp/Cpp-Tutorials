@@ -4,18 +4,21 @@
 # Except the .gitignore file
 !.gitignore
 
+# And except the directories
+!*/
+
 # Cpp files, Header files and executable files
-!*/*.cpp
-!*/*.h
-!*/*.exe
+!*.cpp
+!*.h
+!*.exe
 
 # Solution files
 !*.sln
 
 # VS project files
-!*/*.user
-!*/*.filters
-!*/*.vcxproj
+!*.user
+!*.filters
+!*.vcxproj
 
 # GitHub files
 !README.md
